@@ -1,0 +1,184 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "The Customer Experience",
+  "title": "The Customer Experience",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro"
+    },
+    {
+      "title": "Greetings"
+    },
+    {
+      "title": "Positive Experience"
+    },
+    {
+      "title": "Challenge Scenario"
+    },
+    {
+      "title": "Wow the Concern"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6egh9SSSYsv",
+      "title": "Notice for FZs",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6TjJFKvkis8",
+      "title": "Introduction",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5pd10OL6dfH",
+      "title": "Secret Ingredient",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6cVposzlkSn",
+      "title": "DPZ Greeting",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6oSjyCkKY5f",
+      "title": "Greeting I",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "64eM8E6H8MG",
+      "title": "Greeting II",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "61t6YULs63A",
+      "title": "Provide Positive Experience",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5rbOyuDm4zx",
+      "title": "Ordinary Example",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6fp1jsLTap3",
+      "title": "Rate the Ordinary Example",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6pBoGqFZHVR",
+      "title": "Review Ordinary Example",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5iL01MgGXiw",
+      "title": "Transition I",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5gmeAWKo6lf",
+      "title": "Extraordinary Example",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "6dfFEWxKF6i",
+      "title": "Rate the Ordinary Example",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5aM44i3WnRW",
+      "title": "Review Ordinary Example",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "5g3W03m4PMA",
+      "title": "Transition II",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "5lpCV4rxmAT",
+      "title": "3 P's",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "5VrqQWv8DPw",
+      "title": "Instructions",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5rXgrXMPw4a",
+      "title": "CHOOSE THE BEST RESPONSE AND SEE HOW EACH CHOICE AFFECTS THE OVERALL EXPERIENCE.",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "67EvWmY1uSC",
+      "title": "CHOOSE THE BEST RESPONSE AND SEE HOW EACH CHOICE AFFECTS THE OVERALL EXPERIENCE.",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5wGArKbtWRj",
+      "title": "CHOOSE THE BEST RESPONSE AND SEE HOW EACH CHOICE AFFECTS THE OVERALL EXPERIENCE.",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6C8JaQFQXvm",
+      "title": "CHOOSE THE BEST RESPONSE AND SEE HOW EACH CHOICE AFFECTS THE OVERALL EXPERIENCE.",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6VK0VAB2crw",
+      "title": "CHOOSE THE BEST RESPONSE AND SEE HOW EACH CHOICE AFFECTS THE OVERALL EXPERIENCE.",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6757ilAzSt4",
+      "title": "Results Slide",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6gL2i7y4jkM",
+      "title": "Our Guarantee",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6rHT9XE0m87",
+      "title": "Wow the Concern",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6OlikOyCevg",
+      "title": "Untitled Slide",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6AQX9Rak2Aj",
+      "title": "what’s the best way to handle this situation. choose the best response.",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "61iicj1xYt9",
+      "title": "what’s the best way to handle this situation? choose the best response.",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "6pdogT3BHlo",
+      "title": "what’s the best way to handle this situation? choose the best response.",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "6Pt8QSkwlM5",
+      "title": "Conclusion",
+      "scene_index": "5.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

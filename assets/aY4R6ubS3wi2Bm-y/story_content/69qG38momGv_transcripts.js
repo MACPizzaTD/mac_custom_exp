@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Hello and thank you for calling Domino's. How can I help you today?"},{"start":3264,"text":"I'd like one large hand-tossed Deluxe pizza."},{"start":6400,"text":"That's a favorite!"},{"start":7936,"text":"Yeah. Let me get the Classic Hot Buffalo Specialty Chicken."},{"start":11616,"text":"Great choice."},{"start":12935,"text":"And a 20-ounce Coke."},{"start":14976,"text":"Sounds good."},{"start":16272,"text":"And that's it."},{"start":17280,"text":"Would you like to add something sweet like Lava Crunch Cakes?"},{"start":21216,"text":"Oh, sure!"},{"start":23648,"text":"Perfect, your total is..."}]}]};
+    window.globalLoadJsAsset('story_content/69qG38momGv_transcripts.js', JSON.stringify(data));
+})();

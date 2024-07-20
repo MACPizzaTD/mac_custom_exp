@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":128,"text":"Personality: the secret ingredient to any customer experience is YOU!"},{"start":5536,"text":"Your customer's experience begins and ends with you,"},{"start":8411,"text":"so don't be shy to bring out the best qualities of your personality."},{"start":12416,"text":"Professionalism: the golden rule is to treat customers how you would want to be treated as a customer."},{"start":18016,"text":"Treating others in a professional manner, not only makes the customer feel great,"},{"start":21952,"text":"but it helps build a positive reputation for your store."},{"start":24864,"text":"Performance: your performance on the job directly affects the customer's experience."},{"start":30560,"text":"As a CSR, you'll be responsible for helping customers through the ordering process "},{"start":34935,"text":"with your expert menu knowledge , helpful recommendations,"},{"start":37683,"text":"and positive attitude!"}]}]};
+    window.globalLoadJsAsset('story_content/6p15oKX86Lf_transcripts.js', JSON.stringify(data));
+})();
